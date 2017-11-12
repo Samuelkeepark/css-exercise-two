@@ -129,7 +129,7 @@ a {
   text-decoration: none;
 }
 
-a:link {color: 144fff; } /* unvisited */
-a:visited {color: 8797c6; } /* visited */
-a:hover {color: 0075c4; } /* mouse over */
-a:active {color: cecece; } /* selected */
+a:link {color:#144fff; } /* unvisited */
+a:visited {color:#8797c6; } /* visited */
+a:hover {color:#0075c4; } /* mouse over */
+a:active {color:#cecece; } /* selected */
